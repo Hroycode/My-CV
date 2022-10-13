@@ -1,0 +1,21 @@
+.title{text-align: center;
+font-size: 4.5m;
+color: rgb(21, 8, 141);}
+
+.ci span{color: rgb(167, 164, 164)
+    ;font-style: italic;}
+
+.context {
+    width: 100%;
+    position: absolute;
+    top:50vh;
+}
+
+.context h1{
+    text-align: center;
+    color: rgba(25, 0, 255, 0.205);
+    font-size: 4.5cm;
+}
+
+body{background-color: rgba(0, 132, 255, 0.384);}
+
